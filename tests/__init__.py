@@ -1,0 +1,4 @@
+from .test_catalogs import test_catalog
+from .test_event_detection import test_event_det
+from .test_catalog_consolidation import catalog_consolidation_plot
+from .test_download import plot_downloaded_files
